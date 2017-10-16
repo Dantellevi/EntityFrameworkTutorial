@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\obj\Debug\DataBase_First.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\DataBase_First.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\DataBase_First.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\DataBase_First.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\obj\Debug\DataBase_First.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\obj\Debug\DataBase_First.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataBase_First\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

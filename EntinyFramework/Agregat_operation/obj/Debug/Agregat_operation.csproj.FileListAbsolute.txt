@@ -1,0 +1,11 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\Agregat_operation.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\Agregat_operation.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\Agregat_operation.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\obj\Debug\Agregat_operation.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Agregat_operation\obj\Debug\Agregat_operation.pdb

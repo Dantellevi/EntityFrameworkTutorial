@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\CodeFirst_with_isDatabase.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\CodeFirst_with_isDatabase.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\CodeFirst_with_isDatabase.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\obj\Debug\CodeFirst_with_isDatabase.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\obj\Debug\CodeFirst_with_isDatabase.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\obj\Debug\CodeFirst_with_isDatabase.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\CodeFirst_with_isDatabase\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

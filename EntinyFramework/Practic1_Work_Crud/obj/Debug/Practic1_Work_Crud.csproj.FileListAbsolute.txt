@@ -1,0 +1,16 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.EditWin.resources
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.Form1.resources
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.Properties.Resources.resources
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.csproj.GenerateResource.Cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\Practic1_Work_Crud.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\Practic1_Work_Crud.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\Practic1_Work_Crud.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Practic1_Work_Crud\obj\Debug\Practic1_Work_Crud.pdb

@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\FluentApIModel.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\FluentApIModel.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\FluentApIModel.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\obj\Debug\FluentApIModel.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\obj\Debug\FluentApIModel.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FluentApIModel\obj\Debug\FluentApIModel.pdb

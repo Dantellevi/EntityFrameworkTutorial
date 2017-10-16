@@ -1,0 +1,11 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\Join_Table.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\Join_Table.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\Join_Table.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\obj\Debug\Join_Table.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Join_Table\obj\Debug\Join_Table.pdb

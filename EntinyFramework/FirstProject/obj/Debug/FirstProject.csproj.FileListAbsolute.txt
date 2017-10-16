@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\FirstProject.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\FirstProject.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\FirstProject.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\obj\Debug\FirstProject.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\obj\Debug\FirstProject.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\FirstProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

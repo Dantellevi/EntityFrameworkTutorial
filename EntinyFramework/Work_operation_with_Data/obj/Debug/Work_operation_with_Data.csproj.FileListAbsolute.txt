@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\Work_operation_with_Data.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\Work_operation_with_Data.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\Work_operation_with_Data.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\obj\Debug\Work_operation_with_Data.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\obj\Debug\Work_operation_with_Data.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Work_operation_with_Data\obj\Debug\Work_operation_with_Data.pdb

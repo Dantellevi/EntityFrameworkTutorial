@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\DataInitileze.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\DataInitileze.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\DataInitileze.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\obj\Debug\DataInitileze.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\obj\Debug\DataInitileze.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\DataInitileze\obj\Debug\DataInitileze.pdb

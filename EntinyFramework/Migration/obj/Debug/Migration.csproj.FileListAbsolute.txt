@@ -1,0 +1,13 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\Migration.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\Migration.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\Migration.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\obj\Debug\Migration.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\obj\Debug\Migration.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\obj\Debug\Migration.Migrations.InitialCreate.resources
+D:\Проекты-ПО\учебные проекты\EntinyFramework\Migration\obj\Debug\Migration.csproj.GenerateResource.Cache

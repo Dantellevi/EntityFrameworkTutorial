@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\LinQtoEntity.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\LinQtoEntity.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\LinQtoEntity.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\obj\Debug\LinQtoEntity.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\obj\Debug\LinQtoEntity.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\LinQtoEntity\obj\Debug\LinQtoEntity.pdb

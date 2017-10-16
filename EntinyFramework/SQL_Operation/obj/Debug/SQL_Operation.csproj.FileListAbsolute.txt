@@ -1,0 +1,14 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\SQL_Operation.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\SQL_Operation.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\SQL_Operation.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\obj\Debug\SQL_Operation.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\obj\Debug\SQL_Operation.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\obj\Debug\SQL_Operation.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\obj\Debug\SQL_Operation.Migrations.SQLOperationMigration.resources
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SQL_Operation\obj\Debug\SQL_Operation.csproj.GenerateResource.Cache

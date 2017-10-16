@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\automatizationCodeFirst.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\automatizationCodeFirst.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\automatizationCodeFirst.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\obj\Debug\automatizationCodeFirst.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\obj\Debug\automatizationCodeFirst.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\obj\Debug\automatizationCodeFirst.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\automatizationCodeFirst\bin\Debug\ru\EntityFramework.SqlServer.resources.dll

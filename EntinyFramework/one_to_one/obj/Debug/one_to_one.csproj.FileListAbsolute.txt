@@ -1,0 +1,12 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\one_to_one.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\one_to_one.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\one_to_one.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\obj\Debug\one_to_one.csprojResolveAssemblyReference.cache
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\obj\Debug\one_to_one.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\one_to_one\obj\Debug\one_to_one.pdb

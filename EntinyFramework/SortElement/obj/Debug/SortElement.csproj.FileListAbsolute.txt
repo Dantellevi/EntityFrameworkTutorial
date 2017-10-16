@@ -1,0 +1,11 @@
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\SortElement.exe.config
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\SortElement.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\SortElement.pdb
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\EntityFramework.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\EntityFramework.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\obj\Debug\SortElement.exe
+D:\Проекты-ПО\учебные проекты\EntinyFramework\SortElement\obj\Debug\SortElement.pdb
